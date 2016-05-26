@@ -12,8 +12,8 @@ I hope you guys enjoy the theme!
 
 Contact Nemesis
 
-https://nemesis.pw
-IRC: irc.tm #tm (Nemesis)
-XMPP: nmsis@xmpp.jp
-E-mail: nemesis@nemesis.pw
-Solero.me: Nemesis
+- https://nemesis.pw
+- IRC: irc.tm #tm (Nemesis)
+- XMPP: nmsis@xmpp.jp
+- E-mail: nemesis@nemesis.pw
+- Solero.me: Nemesis

@@ -1,6 +1,6 @@
 # IRC.tm
 
-This website theme is free to be used and modified under the Apache 2.0 License. 
+Free for download and modification under the GNU License
 
 Information
 - Code written by Nemesis
